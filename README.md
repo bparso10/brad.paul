@@ -1,6 +1,6 @@
 # brad.paul
 
-A modern, professional portfolio website showcasing software development projects and skills.
+Personal portfolio website showcasing my software development projects and skills.
 
 ## 🚀 Live Demo
 
@@ -8,7 +8,6 @@ Visit the live website: [https://bparso10.github.io/brad.paul/](https://bparso10
 
 ## 📋 Features
 
-- **Responsive Design**: Fully responsive and mobile-friendly
 - **Modern UI/UX**: Clean, professional design with smooth animations
 - **Interactive Navigation**: Smooth scrolling and mobile hamburger menu
 - **Project Showcase**: Dedicated section for featuring development projects
